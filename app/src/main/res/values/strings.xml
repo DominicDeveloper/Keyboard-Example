@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Keyboard Example</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="mykeyboard">MyKeyboard</string>
+    <string name="create_your_first_custom_keyboard">Create your first custom keyboard</string>
+    <string name="choose_keyboard">choose keyboard</string>
+    <string name="enable_keyboard">enable keyboard</string>
+</resources>
